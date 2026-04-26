@@ -1,0 +1,2 @@
+snr,seed,f1,precision,recall,aug,timestamp
+6,1,0.935609,0.935770,0.935909,AutoSMC + All Methods (1+4+5 Combined),2026-04-24T21:00:09.479062

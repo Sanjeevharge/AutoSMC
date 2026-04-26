@@ -1,0 +1,2 @@
+Model,SNR,Aug,Our_P,Our_R,Our_F1,Paper_P,Paper_R,Paper_F1,Delta_P,Delta_R,Delta_F1
+AutoSMC,+6dB,AutoSMC + Freq-Domain Aug (Method 5),0.9214,0.9200,0.9192,0.9391,0.9386,0.9385,-0.0177,-0.0186,-0.0193

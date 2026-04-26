@@ -1,0 +1,8 @@
+trial,snr,fusion_mode,f1,precision,recall,weights_file,epoch_log
+1,6,cross_attention,0.920026,0.922196,0.920455,outputs/model_nas_snr+6_trial1_f10.9200.weights.h5,outputs/epoch_log_nas_snr+6_trial1.csv
+2,6,cross_attention,0.925255,0.926514,0.925455,outputs/model_nas_snr+6_trial2_f10.9253.weights.h5,outputs/epoch_log_nas_snr+6_trial2.csv
+3,6,cross_attention,0.920409,0.924686,0.921364,outputs/model_nas_snr+6_trial3_f10.9204.weights.h5,outputs/epoch_log_nas_snr+6_trial3.csv
+4,6,weighted_sum,0.925006,0.930902,0.926364,outputs/model_nas_snr+6_trial4_f10.9250.weights.h5,outputs/epoch_log_nas_snr+6_trial4.csv
+5,6,weighted_sum,0.920968,0.92341,0.921818,outputs/model_nas_snr+6_trial5_f10.9210.weights.h5,outputs/epoch_log_nas_snr+6_trial5.csv
+6,6,weighted_sum,0.919458,0.921631,0.92,outputs/model_nas_snr+6_trial6_f10.9195.weights.h5,outputs/epoch_log_nas_snr+6_trial6.csv
+7,6,cross_attention,0.918531,0.919216,0.918636,outputs/model_nas_snr+6_trial7_f10.9185.weights.h5,outputs/epoch_log_nas_snr+6_trial7.csv

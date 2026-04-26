@@ -1,0 +1,4 @@
+trial,snr,fusion_mode,f1,precision,recall,weights_file,epoch_log
+1,2,weighted_sum,0.900427,0.902843,0.901364,outputs/model_nas_snr+2_trial1_f10.9004.weights.h5,outputs/epoch_log_nas_snr+2_trial1.csv
+2,2,weighted_sum,0.894352,0.895801,0.894545,outputs/model_nas_snr+2_trial2_f10.8944.weights.h5,outputs/epoch_log_nas_snr+2_trial2.csv
+3,2,weighted_sum,0.897145,0.897973,0.896818,outputs/model_nas_snr+2_trial3_f10.8971.weights.h5,outputs/epoch_log_nas_snr+2_trial3.csv

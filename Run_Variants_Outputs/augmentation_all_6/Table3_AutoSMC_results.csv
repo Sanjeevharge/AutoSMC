@@ -1,0 +1,2 @@
+Model,SNR,Aug,Our_P,Our_R,Our_F1,Paper_P,Paper_R,Paper_F1,Delta_P,Delta_R,Delta_F1
+AutoSMC,+6dB,AutoSMC + All Methods (1+4+5 Combined),0.9358,0.9359,0.9356,0.9391,0.9386,0.9385,-0.0033,-0.0027,-0.0029

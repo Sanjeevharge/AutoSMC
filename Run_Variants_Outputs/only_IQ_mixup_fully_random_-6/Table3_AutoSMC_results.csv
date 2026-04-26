@@ -1,0 +1,2 @@
+Model,SNR,Aug,Our_P,Our_R,Our_F1,Paper_P,Paper_R,Paper_F1,Delta_P,Delta_R,Delta_F1
+AutoSMC,-6dB,AutoSMC + IQ-Mixup (Method 1),0.6189,0.6155,0.6162,0.6357,0.6445,0.6389,-0.0168,-0.0290,-0.0227

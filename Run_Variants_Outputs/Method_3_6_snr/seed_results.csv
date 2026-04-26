@@ -1,0 +1,2 @@
+snr,seed,f1,precision,recall,aug,timestamp
+6,1,0.919178,0.921380,0.920000,AutoSMC + Freq-Domain Aug (Method 5),2026-04-25T10:21:55.492845

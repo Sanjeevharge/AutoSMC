@@ -1,0 +1,2 @@
+snr,seed,f1,precision,recall,aug,timestamp
+6,1,0.939309,0.939833,0.939545,AutoSMC + IQ-Mixup (Method 1),2026-04-25T01:47:07.136463
